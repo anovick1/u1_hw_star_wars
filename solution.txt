@@ -1,0 +1,123 @@
+[main][~/Desktop/ga/unit1/hw/u1_hw_star_wars]$ history | tail -n 121
+ 1163  clear
+ 1164  mkdir star_wars
+ 1165  cd star_wars
+ 1166  mkdir empire rebellion
+ 1167  touch darth_vador.txt
+ 1168  rm darth_vador.txt
+ 1169  cd empire
+ 1170  touch darth_vador.txt
+ 1171  echo "...heavy breathing..."  >> darth_vader.txt\n
+ 1172  mkdir emperor_palpatine.txt
+ 1173  rm -rf emperor_palpatine.txt\n
+ 1174  touch emperor_palpatine.txt
+ 1175  mkdir death_star\n
+ 1176  mv darth_vador.txt death_star
+ 1177  mv darth_vador.txt death_star/darth_vador.txt
+ 1178  mv darth_vader.txt death_star
+ 1179  cd ..
+ 1180  git status
+ 1181  git add .
+ 1182  git commit -m "Act 1"
+ 1183  git status
+ 1184  git add .
+ 1185  git commit "Act 1, forgot to save act1.sh"
+ 1186  git commit -m  "Act 1, forgot to save act1.sh"
+ 1187  git status
+ 1188  clear
+ 1189* history
+ 1190  cd star_wars/rebellion
+ 1191  touch princess_leia.txt && echo "Help me, Obi-Wan…"\n
+ 1192  rm princess_leia.txt
+ 1193  touch princess_leia.txt && echo "Help me, Obi-Wan…" >> princess_leia.txt\n
+ 1194  touch obi_wan.txt
+ 1195  touch luke_skywalker.txt
+ 1196  mkdir millenium_falcon\n
+ 1197  cd millenium_falcon
+ 1198  touch han_solo.txt chewbacca.txt\n
+ 1199  mv luke_skywalker.txt millenium_falcon\n
+ 1200  cd ..
+ 1201  mv luke_skywalker.txt millenium_falcon\n
+ 1202  mv obi_wan.txt millenium_falcon
+ 1203  mv princess_leia.txt millenium_falcon/
+ 1204  cd ..
+ 1205  cd rebellion
+ 1206  mv millenium_falcon empire
+ 1207  mv millenium_falcon milllenium_falcon
+ 1208  cd ..
+ 1209  cd rebellion
+ 1210  cd star_wars
+ 1211  cd rebellion
+ 1212  mkdir test
+ 1213  rm -rf test
+ 1214  mv millenium_falcon death_star
+ 1215  cd ..
+ 1216  mv rebellion/millenium_falcon death_star
+ 1217  mv rebellion/millenium_falcon empire/ death_star
+ 1218  mv rebellion/millenium_falcon empire/death_star
+ 1219  cd
+ 1220  cd ~/Desktop/ga/unit1/hw/u1_hw_star_wars/star_wars
+ 1221  git add .
+ 1222  git status
+ 1223  git commit -m "Act 2"
+ 1224  git status
+ 1225  git add .
+ 1226  git status
+ 1227  git add act2.sh
+ 1228  cd ..
+ 1229  git add .
+ 1230  git stats
+ 1231  git status
+ 1232  git commit -m "Act 2, forgot to save again"
+ 1233  cd star wars
+ 1234  cd star_wars
+ 1235  cd empire
+ 1236  cd death_star
+ 1237  cd millenium_falcon/*
+ 1238  millenium_falcon/*
+ 1239  mv millenium_falcon/* death_star
+ 1240  mv millenium_falcon/* empire/death_star
+ 1241  mv millenium_falcon* empire/death_star
+ 1242  mv millenium_falcon/* empire/death_star
+ 1243  mv millenium_falcon/* death_star
+ 1244  cd ..
+ 1245  mv millenium_falcon/* death_star
+ 1246  mv empire/millenium_falcon/* death_star
+ 1247  cd death_star
+ 1248  cd millenium_falcon
+ 1249  mv empire/millenium_falcon/* death_star
+ 1250  mv millenium_falcon/* death_star
+ 1251  mv millenium_falcon/* death_star/
+ 1252  cd ..
+ 1253  mv millenium_falcon/* death_star/
+ 1254  mv ~/Desktop/ga/unit1/hw/u1_hw_star_wars/star_wars/empire/death_star/millenium_falcon/* ~/Desktop/ga/unit1/hw/u1_hw_star_wars/star_wars/empire/death_star
+ 1255  rm obi_wan.txt
+ 1256  mv luke_skywalker.txt millenium_falcon\n&& mv chewbacca.txt millenium_falcon\n&& mv princess_leia.txt millenium_falcon\n&& mv han_solo.txt millenium_falcon
+ 1257  mv luke_skywalker.txt millenium_falcon\n
+ 1258  mv chewbacca.txt millenium_falcon\n
+ 1259  mv princess_leia.txt millenium_falcon && mv han_solo.txt millenium_falcon\n
+ 1260  cd ..
+ 1261  mv empire/death_star/millenium_falcon rebellion\n
+ 1262  cd empire
+ 1263  mv darth_vader.txt empire\n
+ 1264  mv death_star/darth_vader.txt empire\n
+ 1265  mv darth_vader.txt empire\n
+ 1266  cd death_star
+ 1267  mv darth_vader.txt empire\n
+ 1268  mv darth_vader.txt empire/\n
+ 1269  cd ..
+ 1270  mv death_star/darth_vader.txt empire/\n
+ 1271  cd death_star
+ 1272  mv darth_vader.txt ..
+ 1273  rm -rf death_star
+ 1274  cd ..
+ 1275  rm -rf death_star
+ 1276  cd ..
+ 1277  git add .
+ 1278  got statis
+ 1279  git status
+ 1280  git commit -m "Act 3"
+ 1281  history | tail -n 250
+ 1282  history | tail -n 116
+ 1283  history | tail -n 118
+[main][~/Desktop/ga/unit1/hw/u1_hw_star_wars]$ 
